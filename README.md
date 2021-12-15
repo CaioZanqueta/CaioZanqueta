@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on E2E
 
-- 🌱 I’m currently learning HTML, CSS, JS, NODE, REACT
+- 🌱 I am currently taking the RocketSeat Ignite - NodeJS course
 
 - 📫 How to reach me **caio.zanqueta@outlook.com**
 
