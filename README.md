@@ -7,6 +7,6 @@
 
 - 🌱 I am currently taking the RocketSeat Ignite - NodeJS course
 
-- 📫 How to reach me **caio.zanqueta@outlook.com**
+- 📫 How to reach me **caiozan2001@hotmail.com**
 
 
